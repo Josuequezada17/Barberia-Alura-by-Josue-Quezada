@@ -1,0 +1,99 @@
+.titulo-principal{
+   padding-left: 30px;
+}
+
+nav{
+   position: absolute;
+   top: 5px;
+   right: 60px;
+}
+
+nav li{
+   width: 940px;
+   position: relative;
+   margin: 0 auto;
+   display: inline;
+   margin: 0 0 0 15px;
+   font-weight: bold;
+}
+
+nav a{
+   text-transform: uppercase;
+   color: #000000;
+   font-weight: bold;
+   text-decoration: none;
+}
+
+nav a:hover{
+   color: #c78c19;
+   text-decoration: underline;
+}
+
+.productosLink{
+   text-transform: uppercase;
+   color: #000000;
+   font-weight: bold;
+   font-size: 22px;
+   text-decoration: none;
+   text-align: end;
+
+}
+
+.productosLink a:hover{
+   color: #c78c19;
+   text-decoration: underline;
+}
+
+#banner{
+   width: 100%;
+}
+
+.first{
+   background: #CCCCCC;
+   padding: 25px;
+}
+
+.titulo-centralizado{
+   text-align: center;
+}
+
+.parrafo{
+   text-align: center;
+}
+
+strong em{
+   color: red;
+}
+
+#mision{
+   font-size: 20px;
+}
+
+.diferencial{
+   background: #FFFFFF;
+   padding: 25px;
+}
+
+.items{
+   font-style: italic; font-size: 20px;
+}
+
+.bulletList{
+   display: inline-block;
+   vertical-align: top;
+   width: 25%;
+   margin-right: 15%;
+}
+
+.imagenDiferenciales{
+   width: 50%;
+   padding: 15px;
+}
+
+/*
+.endPage{
+   text-align: center;
+   background: url(imagenes/imagenes/bg.jpg);
+   padding: 40px;
+
+}*/
